@@ -1,0 +1,18 @@
+{
+  "$schema": "https://raw.githubusercontent.com/rayners/fvtt-seasons-and-stars/main/schemas/calendar-collection-v1.0.0.json",
+  "name": "Calendar Pack: Renascence",
+  "description": "Delayse Calendar",
+  "version": "1.0.0",
+  "author": "DenTheSempai",
+  "calendars": [
+    {
+      "id": "renascence",
+      "name": "Delayse Calendar",
+      "description": "The calendar system used in the the continent known as Renascence or Delayse, featuring ten months, with the seasons marking the rule of the Season Sisters over nature.",
+      "file": "renascence.json",
+      "preview": "15th of Freya, 2024 A.C.",
+      "tags": ["fantasy", "homebrew"],
+      "author": "DenTheSempai"
+    }
+  ]
+}
