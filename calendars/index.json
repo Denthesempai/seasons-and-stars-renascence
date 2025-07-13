@@ -1,0 +1,18 @@
+{
+  "$schema": "https://raw.githubusercontent.com/rayners/fvtt-seasons-and-stars/main/schemas/calendar-collection-v1.0.0.json",
+  "name": "Renascence Calendar Pack",
+  "description": "Custom calendars for the Renascence setting",
+  "version": "1.0.0",
+  "author": "DTS",
+  "calendars": [
+    {
+      "id": "renascencepf2e",
+      "name": "Standard Renascence Calendar",
+      "description": "The default calendar used in the Renascence setting.",
+      "file": "renascencepf2e.json",
+      "preview": "15th of Mara, Freezing Winter, 1504 AC",
+      "tags": ["fantasy", "homebrew"],
+      "author": "Danthesempai"
+    }
+  ]
+}

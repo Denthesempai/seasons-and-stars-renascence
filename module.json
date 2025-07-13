@@ -1,0 +1,32 @@
+{
+  "id": "seasons-and-stars-renascence",
+  "title": "Seasons & Stars: Renascence",
+  "description": "Custom calendars for my campaign setting",
+  "version": "AUTOMATIC",
+  "authors": [
+    {
+      "name": "Denthesempai"
+    }
+  ],
+  "library": false,
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "esmodules": [],
+  "styles": [],
+  "relationships": {
+    "requires": [
+      {
+        "id": "seasons-and-stars",
+        "type": "module",
+        "compatibility": {
+          "minimum": "0.7.0"
+        }
+      }
+    ]
+  },
+  "url": "https://github.com/Denthesempai/seasons-and-stars-renascence",
+  "manifest": "https://github.com/Denthesempai/seasons-and-stars-renascence/releases/latest/download/module.json",
+  "download": "AUTOMATIC"
+}
