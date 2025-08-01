@@ -6,13 +6,26 @@
   "author": "Danthesempai",
   "calendars": [
     {
+      "id": "renascence",
+      "name": "Renascence Calendar",
+      "description": "The calendar system used on Easolodia, featuring ten months that follow the eternal cycle of nature seasons.",
+      "file": "renascence.json",
+      "preview": "15th of Mara, Freezing Winter, 1504 AC",
+      "tags": [
+        "fantasy"
+      ],
+      "author": "DTS"
+    },
+     {
       "id": "renascencepf2e",
       "name": "Standard Renascence Calendar",
       "description": "The default calendar used in the Renascence setting.",
       "file": "renascencepf2e.json",
       "preview": "15th of Mara, Freezing Winter, 1504 AC",
-      "tags": ["fantasy", "homebrew", "pathfinder"],
-      "author": "Danthesempai"
+      "tags": [
+        "fantasy"
+      ],
+      "author": "DTS"
     }
   ]
 }
